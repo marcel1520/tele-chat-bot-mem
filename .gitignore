@@ -1,0 +1,5 @@
+.env
+.vscode
+research/*
+text.txt
+.DS_Store
